@@ -1,6 +1,10 @@
 # Analyzing-E-commerce-Sales-data
 In this project we Analyze sales data from an e-commerce platform to gain insights into customer behavior and product performance .
 
+# Problem Statement
+
+In the retail industry Understanding Sales customer behavior and product trends are important for businesses striving to optimize operations and increase customer satisfaction. This dataset focuses on online retail transactions. It presents an opportunity to uncover key issues influencing business performance. As a data analyst The main goal is to answer the following questions. Each is designed to guide analysis to valuable, actionable conclusions.
+
 # Objective
 The objective of the E-commerce Sales Data Analysis project is to gain insights into the sales performance of an e-commerce business. This involves analyzing various aspects of the sales data to identify trends, patterns, and anomalies. The analysis aims to support decision-making processes by providing actionable insights into customer behavior, sales performance, and overall business health. Specific objectives include:
 
@@ -15,9 +19,6 @@ The objective of the E-commerce Sales Data Analysis project is to gain insights 
 
 Sample Sales Data, Order Info, Sales, Customer, Shipping, etc., Used for Segmentation, Customer Analytics, Clustering and More. Inspired for retail analytics. This was originally used for Pentaho DI Kettle, But I found the set could be useful for Sales Simulation training.
 
-# Problem Statement
-
-In the retail industry Understanding Sales customer behavior and product trends are important for businesses striving to optimize operations and increase customer satisfaction. This dataset focuses on online retail transactions. It presents an opportunity to uncover key issues influencing business performance. As a data analyst The main goal is to answer the following questions. Each is designed to guide analysis to valuable, actionable conclusions.
 
 # Description
 The E-commerce Sales Data Analysis project involves several key steps:
