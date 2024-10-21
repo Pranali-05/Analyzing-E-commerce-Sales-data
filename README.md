@@ -46,15 +46,20 @@ Compare sales performance across different channels (e.g., website, mobile app, 
 
 # Recommendations for stakeholders
 
-1. Sales trend analysis: Retrieve sales data from several years to analyze sales trends over time. And focus on comparing trends between different years. To understand long-term sales changes and understand the factors affecting those changes, such as economic conditions, market trends, and marketing activities that affect sales.
+# 1. Sales trend analysis: 
+Retrieve sales data from several years to analyze sales trends over time. And focus on comparing trends between different years. To understand long-term sales changes and understand the factors affecting those changes, such as economic conditions, market trends, and marketing activities that affect sales.
 
-2. Monthly Sales Analysis: Regular monthly sales analysis helps to understand the monthly sales trends of the business. And will help to understand the reasons for the increase or decrease in sales in certain months. This information can also be used to plan future activities, such as creating month-specific promotion or marketing activities.
+# 2. Monthly Sales Analysis: 
+Regular monthly sales analysis helps to understand the monthly sales trends of the business. And will help to understand the reasons for the increase or decrease in sales in certain months. This information can also be used to plan future activities, such as creating month-specific promotion or marketing activities.
 
-3. Focusing on customers in high-sales locations: Focusing on customers in high-sales locations can help increase sales more effectively. By developing marketing plans and promotional activities appropriate for each market area.
+# 3. Focusing on customers in high-sales locations: 
+Focusing on customers in high-sales locations can help increase sales more effectively. By developing marketing plans and promotional activities appropriate for each market area.
 
-4. Improving Products or Services: Analyzing the products or services that customers order most can help businesses discern trends in customer needs. To improve or develop products or services to better respond to customer needs.
+# 4. Improving Products or Services: 
+Analyzing the products or services that customers order most can help businesses discern trends in customer needs. To improve or develop products or services to better respond to customer needs.
 
-5. Best-selling product rankings: Best-Selling product rankings can help businesses focus resources on developing and marketing products with the highest potential. It also helps to increase awareness and bring those products to market efficiently.
+# 5. Best-selling product rankings: 
+Best-Selling product rankings can help businesses focus resources on developing and marketing products with the highest potential. It also helps to increase awareness and bring those products to market efficiently.
 
 # Conclusion:-
 
