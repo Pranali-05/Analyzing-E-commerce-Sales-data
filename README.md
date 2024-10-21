@@ -15,7 +15,7 @@ The objective of the E-commerce Sales Data Analysis project is to gain insights 
 
 Sample Sales Data, Order Info, Sales, Customer, Shipping, etc., Used for Segmentation, Customer Analytics, Clustering and More. Inspired for retail analytics. This was originally used for Pentaho DI Kettle, But I found the set could be useful for Sales Simulation training.
 
-#Problem Statement
+# Problem Statement
 
 In the retail industry Understanding Sales customer behavior and product trends are important for businesses striving to optimize operations and increase customer satisfaction. This dataset focuses on online retail transactions. It presents an opportunity to uncover key issues influencing business performance. As a data analyst The main goal is to answer the following questions. Each is designed to guide analysis to valuable, actionable conclusions.
 
